@@ -1,6 +1,6 @@
 {
   "name": "setp62-starter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "no description",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
     "url": "https://github.com/setp62/setp62-starter/issues"
   },
   "homepage": "https://github.com/setp62/setp62-starter#readme",
+  "bundleDependencies": false,
   "devDependencies": {
     "webpack": "^4.33.0",
     "webpack-cli": "^3.3.2"
